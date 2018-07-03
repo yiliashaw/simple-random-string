@@ -1,6 +1,6 @@
 {
   "name": "simple-random-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get a random string",
   "main": "src/index.js",
   "scripts": {
